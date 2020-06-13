@@ -1,3 +1,9 @@
+This was purely for study purpose, The visualization of the data doesn't comply the factness of the data
+I have referred to the youtube video and have learnt many topics while working on this project
+For more details follow: https://github.com/adrianhajdin
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
